@@ -11,8 +11,9 @@ File Recovery: Successfully reassembled and extracted a .png image file directly
 📊 Key Evidence
 Captured Objects List
 The following screenshot shows the list of objects identified by Wireshark from the network stream, including the ubuntu-logo.png file.
-![](/assets/Export-data.png)
 ![](/assets/Website.png)
+![](/assets/Export-data.png)
+
 Recovered Artifact
 Filename: ubuntu-logo.png
 Content-Type: image/png
